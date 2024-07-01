@@ -4,6 +4,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0001-two-sum/0001-two-sum.cpp) |Easy|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/mykhailoko/LeetCode/tree/main/0002-add-two-numbers) |Medium|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp) |Easy|
 |1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py) |Hard|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1791-find-center-of-star-graph/1791-find-center-of-star-graph.cpp) |Easy|
