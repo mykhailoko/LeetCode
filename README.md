@@ -7,6 +7,7 @@ LeetCode
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0035-search-insert-position/0035-search-insert-position.cpp) |Easy|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0088-merge-sorted-array/0088-merge-sorted-array.cpp) |Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0350-intersection-of-two-arrays-II/0350-intersection-of-two-arrays-II.cpp) |Easy|
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Java](https://github.com/mykhailoko/LeetCode/blob/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves.java) |Medium|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1518-water-bottles/1518-water-bottles.cpp) |Easy|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp) |Easy|
@@ -24,4 +25,5 @@ LeetCode 75
 ========
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1768-merge-strings-alternately/1768-merge-strings-alternately.cpp) |Easy|
+|01|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1768-merge-strings-alternately/1768-merge-strings-alternately.cpp) |Easy|
+|02|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
