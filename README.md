@@ -6,6 +6,7 @@ LeetCode
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0002-add-two-numbers/0002-add-two-numbers.py) |Medium|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0035-search-insert-position/0035-search-insert-position.cpp) |Easy|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0088-merge-sorted-array/0088-merge-sorted-array.cpp) |Easy|
+|0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.cpp) |Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0350-intersection-of-two-arrays-II/0350-intersection-of-two-arrays-II.cpp) |Easy|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
@@ -34,3 +35,4 @@ LeetCode 75
 |02|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
 |03|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.cpp) |Easy|
 |04|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
+|05|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.cpp) |Easy|
