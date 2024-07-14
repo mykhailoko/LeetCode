@@ -11,6 +11,7 @@ LeetCode
 |0334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.cpp) |Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0350-intersection-of-two-arrays-II/0350-intersection-of-two-arrays-II.cpp) |Easy|
+|0443|[String Compression](https://leetcode.com/problems/string-compression/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0443-string-compression/0443-string-compression.cpp) |Medium|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
@@ -46,4 +47,5 @@ LeetCode 75
 |06|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp) |Medium|
 |07|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) |Medium|
 |08|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
+|09|[String Compression](https://leetcode.com/problems/string-compression/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0443-string-compression/0443-string-compression.cpp) |Medium|
 
