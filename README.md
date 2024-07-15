@@ -12,6 +12,7 @@ LeetCode
 |0334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.cpp) |Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0350-intersection-of-two-arrays-II/0350-intersection-of-two-arrays-II.cpp) |Easy|
+|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0392-is-subsequence/0392-is-subsequence.cpp) |Easy|
 |0443|[String Compression](https://leetcode.com/problems/string-compression/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0443-string-compression/0443-string-compression.cpp) |Medium|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
@@ -51,4 +52,5 @@ LeetCode 75
 |08|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
 |09|[String Compression](https://leetcode.com/problems/string-compression/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0443-string-compression/0443-string-compression.cpp) |Medium|
 |10|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0283-move-zeroes/0283-move-zeroes.cpp) |Easy|
+|11|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0392-is-subsequence/0392-is-subsequence.cpp) |Easy|
 
