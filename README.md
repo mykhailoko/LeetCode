@@ -8,6 +8,7 @@ LeetCode
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0088-merge-sorted-array/0088-merge-sorted-array.cpp) |Easy|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp) |Medium|
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) |Medium|
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0283-move-zeroes/0283-move-zeroes.cpp) |Easy|
 |0334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.cpp) |Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0350-intersection-of-two-arrays-II/0350-intersection-of-two-arrays-II.cpp) |Easy|
@@ -49,4 +50,5 @@ LeetCode 75
 |07|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) |Medium|
 |08|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
 |09|[String Compression](https://leetcode.com/problems/string-compression/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0443-string-compression/0443-string-compression.cpp) |Medium|
+|10|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0283-move-zeroes/0283-move-zeroes.cpp) |Easy|
 
