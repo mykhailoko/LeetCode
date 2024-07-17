@@ -27,6 +27,7 @@ LeetCode
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1550-three-consecutive-odds/1550-three-consecutive-odds.cpp) |Easy|
 |1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.py) |Hard|
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1598-crawler-log-folder/1598-crawler-log-folder.cpp) |Easy|
+|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.cpp) |Medium|
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1701-average-waiting-time/1701-average-waiting-time.py) |Medium|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1717-maximum-score-from-removing-substrings/1717-maximum-score-from-removing-substrings.py) |Medium|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1768-merge-strings-alternately/1768-merge-strings-alternately.cpp) |Easy|
@@ -58,3 +59,5 @@ LeetCode 75
 |10|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0283-move-zeroes/0283-move-zeroes.cpp) |Easy|
 |11|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0392-is-subsequence/0392-is-subsequence.cpp) |Easy|
 |12|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0011-container-with-most-water/0011-container-with-most-water.cpp) |Medium|
+|13|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.cpp) |Medium|
+
