@@ -19,6 +19,7 @@ LeetCode
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
 |0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0643-maximum-average-subarray-I/0643-maximum-average-subarray-I.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1110-delete-nodes-and-return-forest/1110-delete-nodes-and-return-forest.py) |Medium|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.cpp) |Medium|
@@ -66,4 +67,5 @@ LeetCode 75
 |13|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.cpp) |Medium|
 |14|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0643-maximum-average-subarray-I/0643-maximum-average-subarray-I.cpp) |Easy|
 |15|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.cpp) |Medium|
+|16|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 
