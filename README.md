@@ -46,6 +46,7 @@ LeetCode
 |2196|[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.py) |Medium|
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.py) |Medium|
 |2392|[Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2392-build-a-matrix-with-conditions/2392-build-a-matrix-with-conditions.cpp) |Hard|
+|2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2418-sort-the-people/2418-sort-the-people.cpp) |Easy|
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2582-pass-the-pillow/2582-pass-the-pillow.cpp) |Easy|
 |2751|[Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2751-robot-collisions/2751-robot-collisions.py) |Hard|
 
