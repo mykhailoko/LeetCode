@@ -18,6 +18,7 @@ LeetCode
 |0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0509-fibonacci-number/0509-fibonacci-number.cpp) |Easy|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
 |0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0643-maximum-average-subarray-I/0643-maximum-average-subarray-I.cpp) |Easy|
+|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0724-find-pivot-index/0724-find-pivot-index.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
@@ -78,4 +79,5 @@ LeetCode 75
 |16|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 |17|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1493-longest-subarray-of-1's-after-deleting-one-element/1493-longest-subarray-of-1's-after-deleting-one-element.cpp) |Medium|
 |18|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp) |Easy|
+|19|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0724-find-pivot-index/0724-find-pivot-index.cpp) |Easy|
 
