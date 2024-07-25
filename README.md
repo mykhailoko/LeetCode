@@ -20,6 +20,7 @@ LeetCode
 |0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0643-maximum-average-subarray-I/0643-maximum-average-subarray-I.cpp) |Easy|
 |0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0724-find-pivot-index/0724-find-pivot-index.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
+|0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0912-sort-an-array/0912-sort-an-array.cpp) |Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1110-delete-nodes-and-return-forest/1110-delete-nodes-and-return-forest.py) |Medium|
