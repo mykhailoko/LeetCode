@@ -40,6 +40,7 @@ LeetCode
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1598-crawler-log-folder/1598-crawler-log-folder.cpp) |Easy|
 |1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1605-find-valid-matrix-given-row-and-column-sums/1605-find-valid-matrix-given-row-and-column-sums.cpp) |Medium|
 |1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.cpp) |Easy|
+|1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp) |Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.cpp) |Medium|
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1701-average-waiting-time/1701-average-waiting-time.py) |Medium|
 |1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/1717-maximum-score-from-removing-substrings/1717-maximum-score-from-removing-substrings.py) |Medium|
@@ -89,4 +90,6 @@ LeetCode 75
 |19|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0724-find-pivot-index/0724-find-pivot-index.cpp) |Easy|
 |20|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp) |Easy|
 |21|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp) |Easy|
+|22|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp) |Medium|
+
 
