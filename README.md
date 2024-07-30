@@ -60,6 +60,7 @@ LeetCode
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp) |Easy|
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2285-maximum-total-importance-of-roads/2285-maximum-total-importance-of-roads.py) |Medium|
 |2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2352-equal-row-and-column-pairs/2352-equal-row-and-column-pairs.cpp) |Medium|
+|2390|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp) |Medium|
 |2392|[Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2392-build-a-matrix-with-conditions/2392-build-a-matrix-with-conditions.cpp) |Hard|
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2418-sort-the-people/2418-sort-the-people.cpp) |Easy|
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2582-pass-the-pillow/2582-pass-the-pillow.cpp) |Easy|
@@ -95,5 +96,6 @@ LeetCode 75
 |21|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp) |Easy|
 |22|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp) |Medium|
 |23|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2352-equal-row-and-column-pairs/2352-equal-row-and-column-pairs.cpp) |Medium|
+|24|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp) |Medium|
 
 
