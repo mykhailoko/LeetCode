@@ -20,6 +20,7 @@ LeetCode
 |0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0643-maximum-average-subarray-I/0643-maximum-average-subarray-I.cpp) |Easy|
 |0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0724-find-pivot-index/0724-find-pivot-index.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
+|0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0735-asteroid-collision/0735-asteroid-collision.cpp) |Medium|
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0912-sort-an-array/0912-sort-an-array.cpp) |Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
@@ -97,5 +98,6 @@ LeetCode 75
 |22|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.cpp) |Medium|
 |23|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2352-equal-row-and-column-pairs/2352-equal-row-and-column-pairs.cpp) |Medium|
 |24|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp) |Medium|
+|25|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0735-asteroid-collision/0735-asteroid-collision.cpp) |Medium|
 
 
