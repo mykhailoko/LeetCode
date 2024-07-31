@@ -23,6 +23,7 @@ LeetCode
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0735-asteroid-collision/0735-asteroid-collision.cpp) |Medium|
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0912-sort-an-array/0912-sort-an-array.cpp) |Medium|
+|0933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0933-number-of-recent-calls/0933-number-of-recent-calls.cpp) |Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1004-max-consecutive-ones-III/1004-max-consecutive-ones-III.cpp) |Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp) |Easy|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/1105-filling-bookcase-shelves/1105-filling-bookcase-shelves.cpp) |Medium|
@@ -102,4 +103,5 @@ LeetCode 75
 |24|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.cpp) |Medium|
 |25|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0735-asteroid-collision/0735-asteroid-collision.cpp) |Medium|
 |26|[Decode String](https://leetcode.com/problems/decode-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0394-decode-string/0394-decode-string.cpp) |Medium|
+|27|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0933-number-of-recent-calls/0933-number-of-recent-calls.cpp) |Easy|
 
