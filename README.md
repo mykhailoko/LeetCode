@@ -19,6 +19,7 @@ LeetCode
 |0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0509-fibonacci-number/0509-fibonacci-number.cpp) |Easy|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0605-can-place-flowers/0605-can-place-flowers.cpp) |Easy|
 |0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0643-maximum-average-subarray-I/0643-maximum-average-subarray-I.cpp) |Easy|
+|0649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0649-dota2-senate/0649-dota2-senate.cpp) |Medium|
 |0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0724-find-pivot-index/0724-find-pivot-index.cpp) |Easy|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/0726-number-of-atoms/0726-number-of-atoms.py) |Hard|
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0735-asteroid-collision/0735-asteroid-collision.cpp) |Medium|
@@ -105,4 +106,4 @@ LeetCode 75
 |25|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0735-asteroid-collision/0735-asteroid-collision.cpp) |Medium|
 |26|[Decode String](https://leetcode.com/problems/decode-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0394-decode-string/0394-decode-string.cpp) |Medium|
 |27|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0933-number-of-recent-calls/0933-number-of-recent-calls.cpp) |Easy|
-
+|28|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0649-dota2-senate/0649-dota2-senate.cpp) |Medium|
