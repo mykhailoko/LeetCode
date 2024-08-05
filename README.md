@@ -10,6 +10,7 @@ LeetCode
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp) |Medium|
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) |Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0283-move-zeroes/0283-move-zeroes.cpp) |Easy|
+|0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0328-odd-even-linked-list/0328-odd-even-linked-list.cpp) |Medium|
 |0334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp) |Medium|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.cpp) |Easy|
 |0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0350-intersection-of-two-arrays-II/0350-intersection-of-two-arrays-II.cpp) |Easy|
@@ -113,3 +114,4 @@ LeetCode 75
 |27|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0933-number-of-recent-calls/0933-number-of-recent-calls.cpp) |Easy|
 |28|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0649-dota2-senate/0649-dota2-senate.cpp) |Medium|
 |29|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp) |Medium|
+|30|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0328-odd-even-linked-list/0328-odd-even-linked-list.cpp) |Medium|
