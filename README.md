@@ -8,6 +8,7 @@ LeetCode
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0035-search-insert-position/0035-search-insert-position.cpp) |Easy|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0088-merge-sorted-array/0088-merge-sorted-array.cpp) |Easy|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp) |Medium|
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0206-reverse-linked-list/0206-reverse-linked-list.cpp) |Easy|
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp) |Medium|
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0283-move-zeroes/0283-move-zeroes.cpp) |Easy|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0328-odd-even-linked-list/0328-odd-even-linked-list.cpp) |Medium|
@@ -116,3 +117,5 @@ LeetCode 75
 |28|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0649-dota2-senate/0649-dota2-senate.cpp) |Medium|
 |29|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp) |Medium|
 |30|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0328-odd-even-linked-list/0328-odd-even-linked-list.cpp) |Medium|
+|31|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0206-reverse-linked-list/0206-reverse-linked-list.cpp) |Easy|
+
