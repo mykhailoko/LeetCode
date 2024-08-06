@@ -78,6 +78,7 @@ LeetCode
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp) |Easy|
 |2751|[Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2751-robot-collisions/2751-robot-collisions.py) |Hard|
 |2976|[Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2976-minimum-cost-to-convert-string-I/2976-minimum-cost-to-convert-string-I.cpp) |Medium|
+|3016|[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/3016-minimum-number-of-pushes-to-type-word-II/3016-minimum-number-of-pushes-to-type-word-II.cpp) |Medium|
 |3194|[Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.cpp) |Easy|
 
 
