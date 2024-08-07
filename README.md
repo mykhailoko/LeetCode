@@ -65,6 +65,7 @@ LeetCode
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.cpp) |Medium|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp) |Medium|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/2096-step-by-step-directions-from-a-binary-tree-node-to-another.py) |Medium|
+|2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp) |Medium|
 |2134|[Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2134-minimum-swaps-to-group-all-1's-together-II/2134-minimum-swaps-to-group-all-1's-together-II.cpp) |Medium|
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Python](https://github.com/mykhailoko/LeetCode/blob/main/2181-merge-nodes-in-between-zeros/2181-merge-nodes-in-between-zeros.py) |Medium|
 |2191|[Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2191-sort-the-jumbled-numbers/2191-sort-the-jumbled-numbers.cpp) |Medium|
@@ -119,4 +120,7 @@ LeetCode 75
 |29|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp) |Medium|
 |30|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0328-odd-even-linked-list/0328-odd-even-linked-list.cpp) |Medium|
 |31|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/0206-reverse-linked-list/0206-reverse-linked-list.cpp) |Easy|
+|32|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++](https://github.com/mykhailoko/LeetCode/blob/main/2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp) |Medium|
+
+
 
